@@ -1,4 +1,4 @@
-# FakeNewsDetectorProject
+# FakeNews Detector Project
 Repositório com a finalidade de disponibilizar um detector de fake news que eu fiz.
 
 Esse projeto tem por objetivo a criação de um detector de fake news. Assim que o modelo é treinado, aplica-se preprocessamento de texto, retirando as stop words, hash tags e etc. Faz-se uma analise exploratoria dos dados
